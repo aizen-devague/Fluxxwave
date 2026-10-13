@@ -1,0 +1,4 @@
+timestamp,event_type,from_battery,to_battery,success,active_battery_id,controller_status,reason
+2026-10-13T20:17:52,SWITCH_SUCCESS,A,B,True,B,READY,Target battery passed eligibility checks.
+2026-10-13T20:17:52,SWITCH_FAILED,B,A,False,B,SWITCH_FAILED,Target battery failed eligibility checks.
+2026-10-13T20:17:52,NO_AVAILABLE_BATTERY,,,False,,NO_AVAILABLE_BATTERY,The active battery and its alternate are both ineligible.

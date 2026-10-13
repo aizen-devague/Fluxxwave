@@ -1,0 +1,2 @@
+simulation_time_seconds,active_battery_id,battery_a_soc_percent,battery_b_soc_percent,battery_a_voltage_v,battery_b_voltage_v,battery_a_current_a,battery_b_current_a,solar_power_w,regenerative_power_w,vehicle_demand_w,solar_energy_kwh,regenerative_energy_kwh,vehicle_demand_kwh,measurement_note,timestamp_utc,run_id,data_source,schema_version
+60.0,A,79.5,90.0,,,,,250.0,0.0,700.0,0.004167,0.0,0.011667,"Illustrative simulation values, not measured data.",2026-10-13T15:10:44.857+00:00,fluxxwave_demo,simulation,1.0

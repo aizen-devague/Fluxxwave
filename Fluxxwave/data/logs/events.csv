@@ -1,0 +1,3 @@
+timestamp_utc,run_id,schema_version,data_source,event_type,severity,component,message,details
+2026-10-13T15:10:44.857+00:00,fluxxwave_demo,1.0,simulation,SWITCH_SUCCESS,INFO,battery_manager,Simulated switch from Battery A to Battery B.,"{""from_battery"": ""A"", ""to_battery"": ""B"", ""simulated"": true}"
+2026-10-13T15:10:44.857+00:00,fluxxwave_demo,1.0,simulation,ENERGY_BALANCE_WARNING,WARNING,energy_simulator,Illustrative energy-balance warning.,"{""balance_error_kwh"": 1e-05, ""simulated"": true}"

@@ -1,0 +1,11 @@
+
+# Fluxxwave EV — Python Dependencies
+
+# Numerical calculations and data analysis
+numpy>=1.26
+
+# Graphs for solar, regenerative braking, dashboard and analysis modules
+matplotlib>=3.8
+
+# Optional: interactive data analysis and experimentation
+pandas>=2.1
